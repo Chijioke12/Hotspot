@@ -1,0 +1,7 @@
+# Treat all jar files as binary to prevent line ending adjustments (CRLF corruption)
+*.jar binary
+*.apk binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
