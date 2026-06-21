@@ -1,0 +1,6 @@
+{
+  "name": "Hotspot Monitor",
+  "description": "Secure local network scanner to detect, identify, and monitor devices connected to your mobile hotspot, with custom labels, alerts, and access-control guidelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
